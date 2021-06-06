@@ -1,0 +1,137 @@
+﻿  fart.cpp
+C:\Users\saxto\Desktop\s\Utils.h(352,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\saxto\Desktop\s\settings.h(38,15): warning C4244: 'initializing': conversion from 'ImU32' to 'float', possible loss of data
+C:\Users\saxto\Desktop\s\settings.h(39,16): warning C4244: 'initializing': conversion from 'ImU32' to 'float', possible loss of data
+fart.cpp(117,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+fart.cpp(221,22): warning C4018: '<': signed/unsigned mismatch
+fart.cpp(462,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+fart.cpp(454,19): warning C4101: 'PtrPitch': unreferenced local variable
+fart.cpp(573,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+fart.cpp(574,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+fart.cpp(575,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+fart.cpp(633,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(633,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(633,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(633,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(651,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(651,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(651,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(651,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(651,172): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+fart.cpp(651,154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+fart.cpp(651,136): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+fart.cpp(651,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+fart.cpp(651,183): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(661,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(661,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(662,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(662,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(663,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(663,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(708,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(708,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(708,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(708,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(750,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(750,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(750,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(750,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(783,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(783,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(783,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(783,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(784,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(784,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(784,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(784,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(832,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+fart.cpp(872,64): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+fart.cpp(872,49): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+fart.cpp(872,138): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(873,64): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+fart.cpp(873,49): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+fart.cpp(873,140): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(962,20): warning C4018: '<': signed/unsigned mismatch
+fart.cpp(1038,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+fart.cpp(1099,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1099,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1099,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1099,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1099,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1108,32): warning C4474: 'sprintf_s' : too many arguments passed for format string
+fart.cpp(1108,32): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+fart.cpp(1111,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1111,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1112,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1112,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1113,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1113,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1211,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1211,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1211,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1211,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1211,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1216,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1216,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1216,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1228,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1228,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1228,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1228,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1228,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1229,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1229,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1229,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1229,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1229,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1236,32): warning C4474: 'sprintf_s' : too many arguments passed for format string
+fart.cpp(1236,32): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+fart.cpp(1239,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1239,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1240,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1240,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1241,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1241,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+fart.cpp(1274,26): warning C4244: '=': conversion from 'Type' to 'ULONG', possible loss of data
+          with
+          [
+              Type=float
+          ]
+fart.cpp(1320,64): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+fart.cpp(1320,49): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+fart.cpp(1325,64): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+fart.cpp(1325,49): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+fart.cpp(1326,70): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+fart.cpp(1326,55): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+fart.cpp(1330,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(1330,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(1330,105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(1330,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(1331,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(1331,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(1331,105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(1331,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(1332,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(1332,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(1332,105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(1332,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(1333,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(1333,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(1333,105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(1333,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+fart.cpp(1314,6): warning C4101: 'Y': unreferenced local variable
+fart.cpp(1313,6): warning C4101: 'X': unreferenced local variable
+fart.cpp(1465,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+fart.cpp(1466,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  Generating code
+  663 of 1490 functions (44.5%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    27 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AeroKro External.vcxproj -> C:\Users\saxto\Desktop\s\x64\Release\AeroKro External.exe
